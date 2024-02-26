@@ -14,8 +14,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import javax.servlet.http.HttpServletRequest;
 
 /**
- * Author: Xhy
- * CreateTime: 2023-03-08 09:40
+ * CreateTime: 2024-02-08 09:40
  */
 @Aspect
 public class LimiterAop {

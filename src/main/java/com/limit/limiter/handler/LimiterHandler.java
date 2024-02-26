@@ -5,7 +5,7 @@ import com.limit.limiter.DTO.LimiterDTO;
 
 /**
  * CreateTime: 2024-02-08 09:37
- * 限流处理器
+ * 限流处理器：装配限流的具体实现
  */
 public class LimiterHandler implements Limiter {
 
